@@ -60,6 +60,12 @@ Main:AddButton({
 		loadstring(game:HttpGet("https://pastebin.com/raw/BDhSQqUU", true))()
 	end
 })
+Main:AddButton({
+	Name = "VG Script",
+	Callback = function()
+		loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()
+	end
+})
 local Info = Window:MakeTab({
 	Name = "Info",
 	Icon = "rbxassetid://4483345998",
