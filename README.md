@@ -1,2 +1,2 @@
 # Aplex-Hub
-Script For Roblox 
+Aplex hub is a scripthub for roblox
